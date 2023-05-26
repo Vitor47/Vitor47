@@ -1,12 +1,12 @@
 ## Olá, me chamo Vitor Mateus Miolo!  👋
 
 - 🔭 Atualmente estou trabalhando em Gestão DS.
-- 🌱 Atualmente estou aprendendo linguagem de programação python.
+- 🌱 Atualmente estou aprendendo linguagem de programação TypeScript.
 - 💬 Pergunte-me sobre Django e python.
 - 📫 Como entrar em contato comigo: vitormateusmiolo@gmail.com .
 - ⚡ Curiosidade: Gosto de jogar variados jogos e assitir animes no tempo livre e também estudar uma nova linguagem de programção ou framework.
 - 🤔 Em constante aprendizado nos frameworks de Django e Django REST Framework.
-- 🧑‍💻 Já estagiei por um ano e 2 meses na area com desenvolvimento de sistemas para Web, com a linguagem c# no framework 4.5 em ASP.NET MVC. Atualmente trabalho como desenvolvedor backend com a linguagem de python e com os frameworks de Django e Django REST Framework. Também tenho amplo conhecimento e dominio com a linguagem JavaScript e linguagens de marcação como HTML5 e CSS3.
+- 🧑‍💻 Já fiz estágio por um ano e 2 meses na area de desenvolvimento de sistemas para Web, com a linguagem c# no framework 4.5 em ASP.NET MVC. Atualmente trabalho como desenvolvedor backend com a linguagem python e com os frameworks de Django e Django REST Framework. Também tenho amplo conhecimento e dominio com a linguagem JavaScript e linguagens de marcação como HTML5 e CSS3.
 - 👨‍🎓 Atualmente também faço faculdade de Sistemas de informação, aonde na qual já conquistei um amplo conhecimento de banco de dados e uma boa lógica de programação.
 
 ## Status
